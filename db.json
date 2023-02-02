@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "mb",
+      "rollno": "1260",
+      "clg": "acet"
+    },
+    {
+      "id": 2,
+      "name": "sriram",
+      "rollno": "1205",
+      "college": "acet"
+    },
+    {
+      "id": 3,
+      "name": "mb",
+      "rollno": "1260",
+      "college": "acet"
+    },
+    {
+      "id": 4,
+      "name": "mb",
+      "rollno": "1260",
+      "college": "acet"
+    },
+    {
+      "id": 5,
+      "name": "divya",
+      "rollno": "1238",
+      "college": "acet"
+    },
+    {
+      "id": 6,
+      "name": "",
+      "rollno": "",
+      "college": ""
+    },
+    {
+      "id": 7,
+      "name": "niharika",
+      "rollno": "1465",
+      "college": "acet"
+    },
+    {
+      "id": 8,
+      "name": "niharika",
+      "rollno": "1465",
+      "college": "acet"
+    },
+    {
+      "id": 9,
+      "name": "koshal",
+      "rollno": "1258",
+      "college": "acet"
+    },
+    {
+      "id": 10,
+      "name": "sriram",
+      "rollno": "1205",
+      "college": "acet"
+    }
+  ]
+}
